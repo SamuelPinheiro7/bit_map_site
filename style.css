@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+.p1{
+    background-image: url(img/home-banner.jpg);
+    background-size: cover;
+    height: 93vh;
+}
+.logo{
+    height: 2.7vh;
+    padding-left: 10%;
+    margin-top: 1.7%;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+}
+header{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 8.5vh;
+    display: flex;
+}
+svg{
+    margin-left: 50vh;
+    width: 15px;
+}
+.casa{
+    color: #fcdc00;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: "Poppins", sans-serif;
+}
+.galeria:hover{
+    transition: 0.5s;
+    color: #fcdc00;;
+}
+.galeria{
+     color: white;
+     text-decoration: none;
+     font-size: 12px;
+     font-family: "Poppins", sans-serif;
+     margin-left: 8%;
+}
+.serviços{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: "Poppins", sans-serif;
+    margin-left: 8%;
+}
+.sobre{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: "Poppins", sans-serif;
+    margin-left: 8%;
+}
+.elementos{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: "Poppins", sans-serif;
+    margin-left: 8%;
+}
+.blog{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: "Poppins", sans-serif;
+    margin-left: 8%;
+}
+.contato{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: "Poppins", sans-serif;
+    margin-left: 8%;
+}
+.phome{
+    background-image: url(img/home-banner.jpg);
+    background-size: cover;
+    height: 93vh;
+}
+.preto {
+    background-color: black;
+    height: 27vh;
+    width: 60vh;
+    margin-left: 70vh;
+    margin-top: 26vh;
+}
+.bitmap{
+    color: white;
+    height: 27vh;
+    width: 60vh;
+    font-size: 5vh;
+    font-family: "Poppins", sans-serif;
+    position: absolute; margin-left: 4%; margin-top: 3%;
+}
+.if{
+    color: white;
+    height: 27vh;
+    width: 60vh;
+    font-family: "Poppins", sans-serif;
+    position: absolute; margin-left: 4%; margin-top: 7%;
+}
+.very{
+    color: white;
+    height: 27vh;
+    width: 60vh;
+    font-family: "Poppins", sans-serif;
+    position: absolute; margin-left: 4%; margin-top: 8%;
+}
+.amarelo{
+      background-color: #fcdc00;
+      width: 30vh;
+      height: 45px;
+      margin-left: 84vh;
+      font-family: "Poppins", sans-serif;
+      position: absolute; margin-bottom: 50px;
+}
+.explore{
+    font-size: 15px;
+    margin-left: 90vh;
+    position: absolute;
+    margin-top: 0.6%;
+}
